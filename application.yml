@@ -10,4 +10,6 @@ eureka:
     register-with-eureka: true
     service-url:
       default-Zone: http://localhost:8761/eureka
-Spring.boot.message=this is demo
+spring:
+  boot:
+    message: first attempt
